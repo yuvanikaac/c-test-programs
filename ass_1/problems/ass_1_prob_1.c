@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    int x,y;
+    printf("Enter NUmber: ");
+    scanf("%d",&x);
+    y=x+2;
+    printf("Result=%d",y);
+}
